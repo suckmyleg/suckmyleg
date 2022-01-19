@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @suckmyleg
-- 👀 I’m interested in coding projects
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on everything
+# Dev
+Hi
 
-<!---
-suckmyleg/suckmyleg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `No`<br>
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Learning`<br>
+![#01c100](https://via.placeholder.com/15/01c100/000000?text=+) `Yes`<br>
+
+
+
+|c#|java|python|c++|php|javascript|html|css|sql|ruby|matlab|
+|--|----|------|---|---|----------|----|---|---|----|------|
+|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)|![#01c100](https://via.placeholder.com/15/01c100/000000?text=+)|
